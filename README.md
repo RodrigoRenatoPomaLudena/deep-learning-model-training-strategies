@@ -36,3 +36,6 @@ The standard optimizer is changed, using the default values of the their paramet
 
 # Section 4
 The best model in SECTION 1 changed by adding two layers of neural networks: Conv2D and MaxPooling2D. We expect those layers after the input layer to significantly improve accuracy.
+
+# Contributors
+[@NantoCaparachin](https://github.com/NantoCaparachin)
